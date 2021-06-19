@@ -14,6 +14,10 @@ The [code](code/finalprojectdcs.ipynb) is a python program created in Jupyter no
 
 The data was retrieved from api.nasa.gov and requires a login. The [folder](data/) containing the two CSV files is a part of this repository.
 
+## Documentation
+
+The final [report](docs/Finalproject.pdf) analysis is included.
+
 ## Tools
 
 * Python
