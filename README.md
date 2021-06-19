@@ -4,7 +4,11 @@
 
 ## Description
 
-This project focuses on data wrangling as much as the exoplanet topic. 
+This project focuses on data wrangling as much as the exoplanet topic. The data was then loaded into a Postgres database.
+
+<img src="images/proofpostgres.png" width ="500">
+
+<img src="images/proofpostgres2.png" width ="500">
 
 ## Code
 
