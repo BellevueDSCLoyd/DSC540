@@ -6,6 +6,8 @@
 
 This project focuses on data wrangling as much as the exoplanet topic. The data was then loaded into a Postgres database.
 
+## Postgres Screenshots
+
 <img src="images/proofpostgres.PNG" width ="500">
 
 <img src="images/proofpostgres2.PNG" width ="500">
