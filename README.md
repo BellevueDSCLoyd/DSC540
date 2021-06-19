@@ -8,7 +8,7 @@ This project focuses on data wrangling as much as the exoplanet topic.
 
 ## Code
 
-The code is a [python](code/finalprojectdcs.ipynb) program created in Jupyter notebook.
+The [code](code/finalprojectdcs.ipynb) is a python program created in Jupyter notebook.
 
 ## Data
 
