@@ -8,7 +8,7 @@ This project focuses on data wrangling as much as the exoplanet topic.
 
 ## Code
 
-The code is a [python](code/ program created in Jupyter notebook.
+The code is a [python](code/) program created in Jupyter notebook.
 
 ## Data
 
