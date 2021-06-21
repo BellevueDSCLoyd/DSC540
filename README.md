@@ -26,6 +26,14 @@ The data was retrieved from api.nasa.gov and requires a login. The [folder](data
 
 The final [report](docs/Finalproject.pdf) analysis is included.
 
+## Instructions
+
+To run this notebook locally, install Jupyter, download the data set, change the file location to load the code and data, and install all the library dependencies.
+
+The R code is best run from RStudio. You will also need to download the code and data.
+
+[Anaconda](https://www.anaconda.com/) can be used for both.
+
 ## Tools
 
 * Python
