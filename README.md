@@ -20,6 +20,10 @@ The [folder](data/) containing the three CSV files is a part of this repository.
 
 _The exoplanet function wrapper used by the nasapy module is [deprecated](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/nstedAPI/nph-nstedAPI?table=exoplanets) by a change at [Cal Tech](https://exoplanetarchive.ipac.caltech.edu)_ 
 
+## EDA 
+
+A minimal pandas-profiling [report](https://sdloyd.github.io/Exoplanets/pandasprofile/exoplanets-pandas-profile-report.html) is available.
+
 ## Code
 
 The [code](code/finalprojectdcs.ipynb) is a python program created in Jupyter notebook. To view the pandas-profile, you will need to download and view in Jupyter notebook or use the link on the next line.
