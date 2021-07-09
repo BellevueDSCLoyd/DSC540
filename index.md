@@ -18,7 +18,7 @@ The data was retrieved from api.nasa.gov and requires a login. The [folder](http
 
 ## EDA 
 
-The pandas report is built into the code [here](https://nbviewer.jupyter.org/github/SDLoyd/Exoplanets/blob/master/code/finalprojectdcs.ipynb).
+The pandas report is at the bottom of the code [here](https://nbviewer.jupyter.org/github/SDLoyd/Exoplanets/blob/master/code/finalprojectdcs.ipynb).
 
 ## Code
 
