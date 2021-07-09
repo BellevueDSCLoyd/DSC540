@@ -12,15 +12,21 @@ This project focuses on data wrangling as much as the exoplanet topic. The data 
 
 <img src="images/proofpostgres2.PNG" width ="500">
 
+## Data
+
+The data was retrieved from api.nasa.gov and requires a login. The [folder](https://github.com/SDLoyd/Exoplanets/tree/master/data) containing the two CSV files is a part of this repository.
+
+_As of July 9, 2021, the link to https://exoplanetarchive.ipac.caltech.edu/cgi-bin/nstedAPI/nph-nstedAPI used by the exolplanets function in nasapy module was unavailable._
+
+## EDA 
+
+The pandas report is built into the code [here](https://nbviewer.jupyter.org/github/SDLoyd/Exoplanets/blob/master/code/finalprojectdcs.ipynb).
+
 ## Code
 
 The [code](https://github.com/SDLoyd/Exoplanets/blob/master/code/finalprojectdcs.ipynb) is a python program created in Jupyter notebook. To view the pandas-profile, you will need to download and view in Jupyter notebook or use the link on the next line.
 
 If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/Exoplanets/blob/master/code/finalprojectdcs.ipynb).
-
-## Data
-
-The data was retrieved from api.nasa.gov and requires a login. The [folder](https://github.com/SDLoyd/Exoplanets/tree/master/data) containing the two CSV files is a part of this repository.
 
 ## Documentation
 
