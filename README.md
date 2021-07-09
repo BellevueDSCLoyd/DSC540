@@ -23,7 +23,7 @@ _The exoplanet function wrapper used by the nasapy module is [deprecated](https:
 
 ## EDA 
 
-The pandas report is at the bottom of the code [here](https://nbviewer.jupyter.org/github/SDLoyd/Exoplanets/blob/master/code/finalprojectdcs.ipynb).
+An updated pandas-profiling [report](https://sdloyd.github.io/Exoplanets/pandasprofile/exoplanets-pandas-profile-report.html) is available.
 
 ## Code
 
