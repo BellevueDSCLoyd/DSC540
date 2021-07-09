@@ -18,7 +18,8 @@ The data was retrieved from api.nasa.gov and requires a login.
 
 The [folder](data/) containing the three CSV files is a part of this repository.
 
-_The exoplanet function wrapper used by the nasapy is deprecated by a change at [Cal Tech](https://exoplanetarchive.ipac.caltech.edu)_ 
+
+_The exoplanet function wrapper used by the nasapy module is [deprecated](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/nstedAPI/nph-nstedAPI?table=exoplanets) by a change at [Cal Tech](https://exoplanetarchive.ipac.caltech.edu)_ 
 
 ## EDA 
 
@@ -46,6 +47,7 @@ The R code is best run from RStudio. You will also need to download the code and
 
 * Python
 * Jupyter Notebook
+* Nasapy
 
 ## Credits
 

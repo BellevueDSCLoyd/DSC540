@@ -18,7 +18,7 @@ The data was retrieved from api.nasa.gov and requires a login.
 
 The [folder](https://github.com/SDLoyd/Exoplanets/tree/master/data) containing the three CSV files is a part of this repository.
 
-_The exoplanet function wrapper used by the nasapy is deprecated by a change at [Cal Tech](https://exoplanetarchive.ipac.caltech.edu)_ 
+_The exoplanet function wrapper used by the nasapy module is [deprecated](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/nstedAPI/nph-nstedAPI?table=exoplanets) by a change at [Cal Tech](https://exoplanetarchive.ipac.caltech.edu)_ 
 
 ## EDA 
 
@@ -44,6 +44,7 @@ Try [Anaconda](https://www.anaconda.com/).
 
 * Python
 * Jupyter Notebook
+* Nasapy
 
 ## Credits
 
