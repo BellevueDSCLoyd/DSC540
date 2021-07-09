@@ -14,11 +14,11 @@ This project focuses on data wrangling as much as the exoplanet topic. The data 
 
 ## Data
 
-The data was retrieved from api.nasa.gov and requires a login. The [folder](https://github.com/SDLoyd/Exoplanets/tree/master/data) containing the two CSV files is a part of this repository.
+The data was retrieved from api.nasa.gov and requires a login. 
 
-#_The exoplanet function wrapper used by the nasapy is deprecated by a change at [Cal Tech](https://exoplanetarchive.ipac.caltech.edu)_ 
+The [folder](https://github.com/SDLoyd/Exoplanets/tree/master/data) containing the three CSV files is a part of this repository.
 
-I have a copy of that final data set [here](data/exoplanets_manual.csv).
+_The exoplanet function wrapper used by the nasapy is deprecated by a change at [Cal Tech](https://exoplanetarchive.ipac.caltech.edu)_ 
 
 ## EDA 
 
