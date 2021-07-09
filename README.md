@@ -16,6 +16,11 @@ This project focuses on data wrangling as much as the exoplanet topic. The data 
 
 The data was retrieved from api.nasa.gov and requires a login. The [folder](data/) containing the two CSV files is a part of this repository.
 
+_The exoplanet function wrapper used by the nasapy is deprecated by a change at [Cal Tech](https://exoplanetarchive.ipac.caltech.edu)_ 
+
+I have a copy of that final data set [here](data/exoplanets_manual.csv).
+
+
 ## EDA 
 
 The pandas report is at the bottom of the code [here](https://nbviewer.jupyter.org/github/SDLoyd/Exoplanets/blob/master/code/finalprojectdcs.ipynb).
