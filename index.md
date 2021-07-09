@@ -38,3 +38,7 @@ The R code is best run from RStudio. You will also need to download the code and
 
 * Python
 * Jupyter Notebook
+
+## Credits
+
+_Planet [image](https://www.nasa.gov/ames/kepler/kepler-186f-the-first-earth-size-planet-in-the-habitable-zone) by T. Pyle at [NASA Ames](https://www.nasa.gov/ames)_
