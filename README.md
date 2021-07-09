@@ -12,6 +12,10 @@ This project focuses on data wrangling as much as the exoplanet topic. The data 
 
 <img src="images/proofpostgres2.PNG" width ="500">
 
+## EDA 
+
+The pandas report is built into the code [here](https://nbviewer.jupyter.org/github/SDLoyd/Exoplanets/blob/master/code/finalprojectdcs.ipynb).
+
 ## Code
 
 The [code](code/finalprojectdcs.ipynb) is a python program created in Jupyter notebook. To view the pandas-profile, you will need to download and view in Jupyter notebook or use the link on the next line.
